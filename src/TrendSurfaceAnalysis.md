@@ -110,6 +110,7 @@ cp -r EnhancedTrendSurface ~/.local/share/QGIS/QGIS3/profiles/default/python/plu
 ## **Parameters Explained**
 
 ### **Polynomial Degree**
+
 | Degree | Equation Terms | Use Case |
 |--------|---------------|----------|
 | 1 | 3 (planar) | Simple linear trends |
