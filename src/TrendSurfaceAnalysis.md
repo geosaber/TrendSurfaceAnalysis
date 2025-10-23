@@ -111,12 +111,12 @@ cp -r EnhancedTrendSurface ~/.local/share/QGIS/QGIS3/profiles/default/python/plu
 
 ### **Polynomial Degree**
 
-| Degree | Equation Terms | Use Case |
-|--------|---------------|----------|
-| 1 | 3 (planar) | Simple linear trends |
-| 2 | 6 (quadratic) | Gentle curvature, basic topography |
-| 3 | 10 (cubic) | Complex surfaces, geological features |
-| 4+ | 15+ | Highly complex patterns (use with caution) |
+| Degree | Equation Terms | Use Case                                   |
+|--------|----------------|--------------------------------------------|
+| 1      | 3 (planar)     | Simple linear trends                       |
+| 2      | 6 (quadratic)  | Gentle curvature, basic topography         |
+| 3      | 10 (cubic)     | Complex surfaces, geological features      |
+| 4+     | 15+            | Highly complex patterns (use with caution) |
 
 **Recommendation**: Start with degree 2-3 for most applications.
 
