@@ -351,7 +351,7 @@ We welcome contributions! Areas for improvement:
 If you use this plugin in research, please cite:
 ```
 S. S. Goveia. Enhanced Trend Surface Analysis Plugin for QGIS. Version 1.0. 
-Spatial Analysis Tools. 2024.
+Spatial Analysis Tools. 2025.
 ```
 
 ---
