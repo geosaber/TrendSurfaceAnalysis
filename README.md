@@ -7,7 +7,7 @@ The **Enhanced Trend Surface Analysis Plugin** is a powerful QGIS tool for spati
 ## **Support and Development**
 
 ### **Getting Help**
-- **Documentation**: This guide
+- **Documentation**: [This guide](https://geosaber.github.io/TrendSurfaceAnalysis)
 - **Issues**: GitHub issue tracker
 - **Community**: QGIS user forums
 
